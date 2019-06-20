@@ -2,8 +2,8 @@
 Custom color schemes for Oracle SQL Developer.
 
 ## Installation ##
-See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)  
 > Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL Developer, thus a little bit of hacking is required.  
+See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)  
   
 - Close SQL Developer. This is important. If you modify the scheme file while SQL Developer is open, your changes won't be saved.
 
