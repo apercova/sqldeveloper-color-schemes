@@ -19,13 +19,13 @@ Example:
 ```~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201```  
 &nbsp;  
 
-- Locate `<schemeMap>` tag inside dtcache.xml file. Insert the content of the color scheme xml file inside `<schemeMap>` alongside the other colour schemes. Be careful not to break the XML.
-
+- Locate `<schemeMap>` tag inside dtcache.xml file. Insert the content of the color scheme xml file inside `<schemeMap>` alongside the other colour schemes. Be careful not to break the XML.  
 ![Insert the contents of color scheme xml file after opening schemeMap tag](screenshots/halloween_insert_here.png)
 
 - Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colours in the left pane.
 
-- Select theme in the "Scheme" drop down list on the top.
+- Select theme in the "Scheme" drop down list on the top.  
+![](screenshots/halloween_select.png)
 
 ### Halloween color scheme  ###
 ![](screenshots/halloween_select.png)
