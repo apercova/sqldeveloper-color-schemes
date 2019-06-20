@@ -10,14 +10,12 @@ __See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/oz
 &nbsp;  
 Windows:  
 ```%APPDATA%\SQL Developer\systemn.n.n.n.n.n\o.ide.n.n.n.n.n.n.n```  
-Examples:  
+Example:  
 ```C:\Users\alonperezext\AppData\Roaming\SQL Developer\system3.2.20.09.87\o.ide.11.1.1.4.37.59.48```  
-```C:\Users\alonperezext\AppData\Roaming\SQL Developer\system19.1.0.094.2042\o.ide.13.0.0.1.42.170225.201```  
 &nbsp;  
 Linux or Mac OS X:  
 ```~/.sqldeveloper/systemn.n.n.n.n.n/o.ide.n.n.n.n.n.n.n```  
-Examples:  
-```~/.sqldeveloper/system3.2.20.09.87/o.ide.11.1.1.4.37.59.48```  
+Example:  
 ```~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201```  
 &nbsp;  
 
