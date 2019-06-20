@@ -22,7 +22,7 @@ Example:
 - Locate `<schemeMap>` tag inside dtcache.xml file. Insert the content of the color scheme xml file inside `<schemeMap>` alongside the other colour schemes. Be careful not to break the XML.  
 ![Insert the contents of color scheme xml file after opening schemeMap tag](screenshots/halloween_insert_here.png)
 
-- Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colours in the left pane.
+- Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colors in the left pane.
 
 - Select theme in the "Scheme" drop down list on the top.  
 ![](screenshots/schema_select.png)
@@ -31,7 +31,7 @@ Example:
 ![](screenshots/halloween_select.png)
   
 ### Dracula based color scheme  ###
-> (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]  
+> [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)  
 
 ![](screenshots/dracula_select.png)
   
