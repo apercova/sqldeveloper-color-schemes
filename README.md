@@ -1,10 +1,9 @@
 # Oracle SQLDeveloper custom color schemes
 Custom color schemes for Oracle SQL Developer.
 
-## Installation ##
+## Installation  ##
+__See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)__
 > Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL Developer, thus a little bit of hacking is required.  
-See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)  
-  
 - Close SQL Developer. This is important. If you modify the scheme file while SQL Developer is open, your changes won't be saved.
 
 - Locate file `dtcache.xml` in the [SQL Developer's settings directory](https://docs.oracle.com/en/database/oracle/sql-developer/19.1/rptig/installing-sql-developer.html#GUID-16F0A7C3-6EC1-4176-9B15-FE4AA8D70D5F).  
