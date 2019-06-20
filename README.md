@@ -31,6 +31,6 @@ Example:
 ![](screenshots/halloween_select.png)
   
 ### Dracula based color scheme  ###
-> (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]
+> (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]  
 ![](screenshots/dracula_select.png)
   
