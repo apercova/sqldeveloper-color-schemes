@@ -25,10 +25,10 @@ Example:
 - Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colours in the left pane.
 
 - Select theme in the "Scheme" drop down list on the top.  
-![](screenshots/halloween_select.png)
+![](screenshots/schema_select.png)
 
 ### Halloween color scheme  ###
-![](screenshots/schema_select.png)
+![](screenshots/halloween_select.png)
   
 ### Dracula based color scheme  ###
 > (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]  
