@@ -27,4 +27,10 @@ Example:
 
 - Select theme in the "Scheme" drop down list on the top.
 
+### Halloween color scheme  ###
 ![](screenshots/halloween_select.png)
+  
+### Dracula based color scheme  ###
+> (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]
+![](screenshots/dracula_select.png)
+  
