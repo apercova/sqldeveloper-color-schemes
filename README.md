@@ -28,7 +28,7 @@ Example:
 ![](screenshots/halloween_select.png)
 
 ### Halloween color scheme  ###
-![](screenshots/halloween_select.png)
+![](screenshots/schema_select.png)
   
 ### Dracula based color scheme  ###
 > (https://github.com/dracula/dracula-theme)[https://github.com/dracula/dracula-theme]  
