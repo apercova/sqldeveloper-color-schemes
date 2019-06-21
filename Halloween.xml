@@ -223,4 +223,3 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="profileStyle" enabled="true" priority="20" usefg="true" frgb="-16777216" usebg="true" brgb="-14336" fs="0" us="-1" urgb="0"/>
                </Value>
             </Item>
-            <Item>
