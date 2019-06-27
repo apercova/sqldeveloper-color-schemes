@@ -1,7 +1,15 @@
 # Oracle SQLDeveloper custom color schemes
 Custom color schemes for Oracle SQL Developer.
 
-## Installation  ##
+### Halloween color scheme  ###
+![](screenshots/halloween_select.png)
+  
+### Dracula based color scheme ###
+> _Based on [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)_  
+
+![](screenshots/dracula_select.png)
+
+### Installation  ###
 __See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)__
 > Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL Developer, thus a little bit of hacking is required.  
 - Close SQL Developer. This is important. If you modify the scheme file while SQL Developer is open, your changes won't be saved.
@@ -27,16 +35,8 @@ Example:
 - Select theme in the "Scheme" drop down list on the top.  
 ![](screenshots/schema_select.png)
 
-### Halloween color scheme  ###
-![](screenshots/halloween_select.png)
-  
-### Dracula based color scheme ###
-> _Based on [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)_  
-
-![](screenshots/dracula_select.png)
-  
-## Other awesome themes for SQL Developer ##  
-> - [OzBsidian colour scheme for Oracle SQL Developer](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)
-> - [sqldeveloper-syntax-highlighting](https://github.com/Gillisdc/sqldeveloper-syntax-highlighting)
-> - [atom-one-theme-for-sql-developer](https://github.com/sonnyksimon/atom-one-theme-for-sql-developer)
-> - [solarized-dark-sqldeveloper](https://github.com/mpicker0/solarized-dark-sqldeveloper)
+### Other awesome themes for SQL Developer ###  
+- [OzBsidian colour scheme for Oracle SQL Developer](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)
+- [sqldeveloper-syntax-highlighting](https://github.com/Gillisdc/sqldeveloper-syntax-highlighting)
+- [atom-one-theme-for-sql-developer](https://github.com/sonnyksimon/atom-one-theme-for-sql-developer)
+- [solarized-dark-sqldeveloper](https://github.com/mpicker0/solarized-dark-sqldeveloper)
