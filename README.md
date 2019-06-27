@@ -30,8 +30,13 @@ Example:
 ### Halloween color scheme  ###
 ![](screenshots/halloween_select.png)
   
-### Dracula based color scheme  ###
-> [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)  
+### Dracula based color scheme ###
+> _Based on [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)_  
 
 ![](screenshots/dracula_select.png)
   
+## Other awesome themes for SQL Developer ##  
+> - [OzBsidian colour scheme for Oracle SQL Developer](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)
+> - [sqldeveloper-syntax-highlighting](https://github.com/Gillisdc/sqldeveloper-syntax-highlighting)
+> - [atom-one-theme-for-sql-developer](https://github.com/sonnyksimon/atom-one-theme-for-sql-developer)
+> - [solarized-dark-sqldeveloper](https://github.com/mpicker0/solarized-dark-sqldeveloper)
