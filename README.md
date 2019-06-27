@@ -5,9 +5,9 @@ Custom color schemes for Oracle SQL Developer.
 ![](screenshots/halloween_select.png)
   
 ### <a name="dracula"></a>Dracula based color scheme ###
-> _Based on [https://github.com/dracula/dracula-theme](https://github.com/dracula/dracula-theme)_  
+> #### _Theme moved to: [dracula-sqldeveloper](https://github.com/apercova/dracula-sqldeveloper)_ ####
 
-![](screenshots/dracula_select.png)
+![](https://raw.githubusercontent.com/apercova/dracula-sqldeveloper/master/images/dracula_syntax.png)
 
 ### <a name="install"></a>Installation  ###
 __See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/ozbsidian-sqldeveloper/blob/master/README.md)__
